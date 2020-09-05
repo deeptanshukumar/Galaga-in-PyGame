@@ -9,6 +9,10 @@ https://www.youtube.com/channel/UCZKyNYzMqHOMxIkOBItWL7Q
 
 
 a = Left
+
 d = Right
+
 SPACE = Shoot
+
 ESCAPE = Quit
+
